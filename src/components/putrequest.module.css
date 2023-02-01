@@ -1,0 +1,67 @@
+.main {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  text-align: center;
+}
+.header a {
+  font-size: 30px;
+  color: black;
+  list-style: none;
+}
+.header p {
+  color: gray;
+}
+.header i {
+  color: skyblue;
+}
+.menu a {
+  margin-right: 190px;
+}
+.menu button {
+  border: none;
+  background-color: white;
+}
+.menu button i {
+  color: skyblue;
+}
+.tdoo {
+  background-color: whitesmoke;
+  width: 500px;
+  height: 60px;
+  margin-top: 10px;
+  display: flex;
+  justify-content: space-between;
+  padding-top: 20px;
+  border-radius: 10px;
+}
+.bottom{
+  height: 200px;
+  overflow-y: scroll;
+}
+.outputs {
+  background-color: whitesmoke;
+  border-radius: 10px;
+  width: 480px;
+  margin-top: 10px;
+  padding: 10px;
+  overflow: hidden;
+}
+.outputs button i {
+  color: skyblue;
+}
+.outputs button {
+  border: none;
+  margin-right: 340px;
+  background-color: whitesmoke;
+}
+.outputs i {
+  color: black;
+}
+.footer p {
+  color:skyblue;
+}
+.footer i{
+  color: darkorange;
+}
